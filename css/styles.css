@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: rgb(202, 245, 230);
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+  color: rgb(24, 75, 75);
+}
+h2 {
+  padding: 5px;
+  color: palevioletred;
+}
+p {
+  padding: 5px;
+  margin: 15px auto;
+}
+.nav-links {
+  padding: 10px;
+  margin: 15px auto;
+  font-size: 19px;
+  background-color: rgb(105, 226, 186);
+  max-width: 180px;
+  border-radius: 10px;
+}
